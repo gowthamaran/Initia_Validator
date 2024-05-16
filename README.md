@@ -32,7 +32,6 @@ sudo apt install tmux git -y && tmux new -s initia
 ```bash
 curl -o install_initia.sh curl -o install_initia.sh https://raw.githubusercontent.com/gowthamaran/Initia_Validator/main/install_initia.sh
 chmod +x install_initia.sh
-chmod +x install_initia.sh
 ```
 - Change '**YOUR_NODE_NAME**' to your name:
 ```bash
